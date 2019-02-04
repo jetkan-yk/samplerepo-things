@@ -1,4 +1,7 @@
 durian
 mangosteen
 banana
+apples
+berries
+cherries
 jackfruit
